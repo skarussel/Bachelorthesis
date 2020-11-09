@@ -8,4 +8,4 @@ Dieses Repository enthält den Quellcode, der meiner Bachelorarbeit zugrundelieg
 - Kapitel 12: Feature Selection
 - Kapitel 13: Evaluation des Modells
 
-
+Im Ordner Pictures wurden visuelle Ergebnisse einzelner Notebooks exportiert.

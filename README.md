@@ -1,4 +1,4 @@
-# Aufbau des Repositorys
+# Aufbau des Repositorys 
 
 Dieses Repository enthält den Quellcode, der meiner Bachelorarbeit zugrundeliegt. Der Code jedes Kapitels ist in einem oder mehreren Jupyter Notebooks organisiert. Die Zuordnung ist wie folgt: 
 

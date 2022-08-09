@@ -1,6 +1,6 @@
-**Sicherheit im Supervised Learning - Betrachtung der Unsicherheit eines Klassifikators zur Vorhersage der Handelsakzeptanz von Kunden auf dem Kapitalmarkt**
+## Sicherheit im Supervised Learning - Betrachtung der Unsicherheit eines Klassifikators zur Vorhersage der Handelsakzeptanz von Kunden auf dem Kapitalmarkt
 
-# Aufbau des Repositorys 
+### Aufbau des Repositorys 
 
 Dieses Repository enthält den Quellcode, der meiner Bachelorarbeit zugrundeliegt. Der Code jedes Kapitels ist in einem oder mehreren Jupyter Notebooks organisiert. Die Zuordnung ist wie folgt: 
 

@@ -1,4 +1,4 @@
-Dieses Repository enthält den Code zu meiner Bachelorarbeit über **Sicherheit im Supervised Learning - Betrachtung der Unsicherheit eines Klassifikators zur Vorhersage der Handelsakzeptanz von Kunden auf dem Kapitalmarkt**
+**Sicherheit im Supervised Learning - Betrachtung der Unsicherheit eines Klassifikators zur Vorhersage der Handelsakzeptanz von Kunden auf dem Kapitalmarkt**
 
 # Aufbau des Repositorys 
 
